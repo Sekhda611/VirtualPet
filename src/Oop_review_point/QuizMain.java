@@ -1,5 +1,5 @@
 package Oop_review_point;
-
+//2572
 public class QuizMain {
     public static void main(String[] args) {
 

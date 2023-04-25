@@ -1,5 +1,6 @@
 package Oop_review_point;
 import java.util.Scanner;
+//prigram
 public class Quiz {
     private String[] questions;
     private  String[] answers;

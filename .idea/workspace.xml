@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c27b20-0cd4-466f-8781-1517deb5d199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/QuizMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop_review_point/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PetActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PetActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PetNeeds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PetNeeds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VirtualPet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VirtualPet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VirtualPetSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VirtualPetSimulator.java" afterDir="false" />
-    </list>
+    <list default="true" id="41c27b20-0cd4-466f-8781-1517deb5d199" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682000958592</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1682437674836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682437674836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 package Oop_review_point;
+//25
 
 public class Point {
     //field
